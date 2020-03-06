@@ -103,7 +103,7 @@ li a:hover {
 }
 
 ul li:hover {
-  transform: translatex(-50px) translateY(-5px);
+  transform: translatex(-50px) translateY(-5px) rotate(8deg);
   color: #fff;
   cursor: pointer;
 }
@@ -271,4 +271,5 @@ div:nth-child(6) p:nth-child(3) {
 
 div img:hover {
   border-radius: 20%;
+
 }
